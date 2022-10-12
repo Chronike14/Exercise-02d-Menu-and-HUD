@@ -19,7 +19,7 @@ The Hyperspace typeface was developed by [Pixel Sagas](https://www.dafont.com/hy
 None
 
 ## Future Development
-Advanced features?
+Planets with Gravity
 
 ## Created by
 Donovan Eidenback
