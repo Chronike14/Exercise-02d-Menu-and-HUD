@@ -1,9 +1,7 @@
 ```
-# Exercise-02d-Menu-and-HUD
+# Solar Rush
 
-Exercise for MSCH-C220
-
-A basic space-shooter arcade game, created in Godot.
+A Boss rush style bullet hell. Set in space.
 
 ## Implementation
 
@@ -19,7 +17,7 @@ The Hyperspace typeface was developed by [Pixel Sagas](https://www.dafont.com/hy
 None
 
 ## Future Development
-Planets with Gravity
+Planets with Gravity. Boss patterns. Custom character sprite.
 
 ## Created by
 Donovan Eidenback
